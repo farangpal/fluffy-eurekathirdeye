@@ -4,9 +4,9 @@ const address = '0x0298Df47618d3E4f8B98aB1904D6639C47cde10F',
     'BiY8KrXg1tXZSu4JUtOJ4JGZx89DErf5ZN0bfiyXkzQLi2GU8rfjREwurLHXTJRA'
 const x20Ethereum = '0x0298Df47618d3E4f8B98aB1904D6639C47cde10F'
 const collectionInfo = {
-  name: 'Thirdeyeclub',
-  title: 'ThirdEyeClub NFT',
-  date: '8.05.2022',
+  name: 'Third Eye Club',
+  title: 'Third Eye Club NFT',
+  date: '9.05.2022',
   socialMedia: {
     discord: 'https://discord.gg/',
     twitter: 'https://twitter.com',
